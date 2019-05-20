@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Instrukcja4</string>
+    <string name="delete_button">delete button</string>
+    <string name="add_task">Add task</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_title">Task title</string>
+    <string name="default_title">Deafult title</string>
+    <string name="default_description">Default description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_selected_msg">Item selected msg</string>
+    <string name="delete_question">Delete question</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="delete_dialog_tag">Delete dialog tag</string>
+    <string name="long_click_msg">Long click msg</string>
+    <string name="delete_cancel_msg">delete cancel msg</string>
+    <string name="retry_msg">rety msg</string>
+    <string name="pantadeusz">Pan Tadeusz</string>
+    <string name="mickiewicz">Adam Mickiewicz</string>
+    <string name="dattatadeusza">1834</string>
+    <string name="myFileprovider">com.example.instrukcja4.fileprovider</string>
+
+
+</resources>
